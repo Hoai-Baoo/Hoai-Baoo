@@ -9,7 +9,8 @@
 
 - 💬 I'm interested in **machine learning, computer vision, web development, robotic**
 
-- 📄 This is [my resume](https://github.com/Hoai-Baoo/Hoai-Baoo/files/12253029/Resume.pdf)
+- 📄 This is [my resume](https://github.com/Hoai-Baoo/Hoai-Baoo/files/12253236/Resume.pdf)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
