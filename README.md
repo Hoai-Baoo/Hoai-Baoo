@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **algorithms, React, Nodejs, DevOps**
 
-- 💻 All of my projects are available at here([https://github.com/Hoai-Baoo](https://github.com/Hoai-Baoo?tab=repositories))
+- 💻 All of my projects are available at [here](https://github.com/Hoai-Baoo?tab=repositories)
 
 - 💬 I'm interested in **machine learning, computer vision, web development, robotic**
 
