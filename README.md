@@ -7,7 +7,7 @@
 
 - 💻 All of my projects are available at [here](https://github.com/Hoai-Baoo?tab=repositories)
 
-- 💬 I'm interested in **machine learning, computer vision, web development, robotic**
+- 💬 I'm interested in **hardware design (HDL, FPGA), machine learning, computer vision, web development, robotic**
 
 - 📄 This is [my resume](https://github.com/Hoai-Baoo/Hoai-Baoo/files/12257379/Resume.pdf)
 
