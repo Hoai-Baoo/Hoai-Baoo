@@ -9,7 +9,7 @@
 
 - 💬 I'm interested in **hardware design (HDL, FPGA), machine learning, computer vision, web development, robotic**
 
-- 📄 This is [my resume](https://github.com/Hoai-Baoo/Hoai-Baoo/files/12257379/Resume.pdf)
+- 📄 This is 
 
 
 
