@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
 <h3 align="center">I had just done my Bachelor of Control and Automation Engineering at Ho Chi Minh University of Technology (2023).</h3>
 
-- 🔭 I’m currently learning on **JavaSript, Java**
-
-- 🌱 I’m currently learning **algorithms, React, Nodejs, DevOps**
 
 - 💻 All of my projects are available at [here](https://github.com/Hoai-Baoo?tab=repositories)
 
-- 💬 I'm interested in **hardware design (HDL, FPGA), machine learning, computer vision, web development, robotic**
+- 💬 I'm interested in **embedded, machine learning, computer vision, web development, robotic**
 
 - 📄 This is 
 
