@@ -4,7 +4,7 @@
 
 - 💻 All of my projects are available at [here](https://github.com/Hoai-Baoo?tab=repositories)
 
-- 💬 I'm interested in **embedded, machine learning, computer vision, web development, robotic**
+- 💬 I'm interested in **chip design, digital circuits, embedded, computer vision, robotic**
 
 - 📄 This is 
 
