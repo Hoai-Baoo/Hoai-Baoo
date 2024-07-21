@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
-<h3 align="center">I had just done my Bachelor of Control and Automation Engineering at Ho Chi Minh University of Technology (2023).</h3>
-
+<h3 align="center">I graduated from **Ho Chi Minh University of Technology**.</h3>
+<h3 align="center">My major in **Control and Automation Engineering**.</h3>
+<h3 align="center">I am working as a **Design Verification Engineer**.</h3>
 
 - 💻 All of my projects are available at [here](https://github.com/Hoai-Baoo?tab=repositories)
 
-- 💬 I'm interested in **chip design, digital circuits, embedded, computer vision, robotic**
-
-- 📄 This is 
-
-
+- 💬 I'm interested in **ASIC design, SoC architecture, mbed system, AI and cloud.**
 
 
 
